@@ -1,0 +1,99 @@
+body{
+    margin-top:20px;
+    background:#e3e9ff;
+}
+
+.thumb-sm {
+    height: 36px;
+    width: 36px;
+}
+.card-box {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: #98a6ad;
+}
+taskList {
+    min-height: 40px;
+    margin-bottom: 0
+}
+
+.taskList li {
+    background-color: #fff;
+    border: 1px solid rgba(121, 121, 121, .2);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 3px
+}
+
+.taskList li:last-of-type {
+    margin-bottom: 0
+}
+
+.taskList a {
+    font-size: 13px
+}
+
+.checkbox {
+    position: relative;
+}
+
+.mycheckbox {
+    position: absolute;
+    right: 15px;
+}
+
+
+.text-muted {
+    color: #98a6ad!important;
+}
+
+#btn1 {
+  margin-left: 150px;
+  position: absolute;
+}
+
+.btn-label {
+	position: relative;
+	left: -12px;
+	display: inline-block;
+	padding: 6px 12px;
+	background: rgba(0, 0, 0, 0.15);
+	border-radius: 3px 0 0 3px;
+}
+
+.btn-labeled {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.btn {
+	margin-bottom: 10px;
+}
+
+.text {
+  font-size: 25px;
+  font-family: Quicksand;
+}
+
+.header-title {
+  color: #af7eeb !important;
+  text-align: center;
+  font-weight: 800;
+  font-family: Quicksand, sans-serif;
+}
+
+
+body{margin-top:20px;}
+
+
+.todo-create {
+  margin-top: 20px;
+}
+
+.form-control {
+  margin-top: 10px;
+}
